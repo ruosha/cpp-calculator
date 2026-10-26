@@ -1,0 +1,9 @@
+# build artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# editor / IDE
+.vscode/
